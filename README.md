@@ -1,6 +1,6 @@
-# 🧠 Jarvis AI - Voice-Powered Desktop Assistant
+# 🧠 Harru AI - Voice-Powered Desktop Assistant
 
-Jarvis is a voice-enabled desktop assistant built with Python. It responds to user voice commands to perform actions like opening websites, playing music, telling the time, and even generating content using Google Gemini AI (Generative AI).
+Harru is a voice-enabled desktop assistant built with Python. It responds to user voice commands to perform actions like opening websites, playing music, telling the time, and even generating content using Google Gemini AI (Generative AI).
 
 ---
 
