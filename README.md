@@ -1,6 +1,6 @@
-# 🧠 Harru AI - Voice-Powered Desktop Assistant
+# 🧠 Joey AI - Voice-Powered Desktop Assistant
 
-Harru is a voice-enabled desktop assistant built with Python. It responds to user voice commands to perform actions like opening websites, playing music, telling the time, and even generating content using Google Gemini AI (Generative AI).
+Joey is a voice-enabled desktop assistant built with Python. It responds to user voice commands to perform actions like opening websites, playing music, telling the time, and even generating content using Google Gemini AI (Generative AI).
 
 ---
 
@@ -12,7 +12,7 @@ Harru is a voice-enabled desktop assistant built with Python. It responds to use
 - 🕒 Tell the current time
 - 🤖 Generate intelligent responses using **Gemini AI**
   - Write stories, emails, summaries, and more!
-- 🧠 Text-to-speech replies (Jarvis speaks back to you)
+- 🧠 Text-to-speech replies (Joey speaks back to you)
 
 ---
 
